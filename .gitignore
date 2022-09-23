@@ -1,0 +1,7 @@
+backend/node_modules
+client/node_modules
+
+images/*
+uploads/*
+
+**/.DS_Store
